@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @VitaliiBodiak
+- 👀 I’m interested in math, physic, programing
+- 🌱 I’m currently learning python, django, C++
